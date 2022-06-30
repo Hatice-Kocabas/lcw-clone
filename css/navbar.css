@@ -1,0 +1,36 @@
+.navbar {
+    padding: 4px 8px;
+  }
+  
+  
+  
+  .main-nav__item {
+    display: inline-block;
+    padding: 0.5%;
+  
+  
+  }
+  
+  .main-nav__item a {
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+  
+  }
+  
+  .main-nav__item:hover {
+    border-bottom: 2px solid blue;
+  }
+  
+  #doğa {
+    color: green;
+  }
+  
+  #outlet {
+    color: red;
+  }
+  
+  #land {
+    color: aqua;
+  }

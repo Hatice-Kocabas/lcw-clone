@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin-top: 0px;
+  font-family: "Open Sans",sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.yardım{
+  display: inline-block;
+  margin-top: 0px;
+}
+#kurumsal{
+  margin-top: 0px;
+}

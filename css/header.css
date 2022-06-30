@@ -1,0 +1,81 @@
+.h{
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+}
+
+  form.example input[type=text] {
+    background-color: #fff;
+    border-radius: 10px 0px 0px 10px;
+    padding: 5px;
+    font-size: 17px;
+    float: left;
+    width: 70%;
+ 
+  }
+form.example button {
+  background-color: #fff;
+  border-radius: 0px 10px 10px 0px;
+  width: 30%;
+  padding: 5px;
+  font-size: 17px;
+  border-left: none;
+  cursor: pointer;
+
+
+}
+
+
+form.example button:hover {
+  background: #0b7dda;
+  color: #fff;
+}
+
+
+.maintitle {
+  color: #193DB0;
+  font-size: 40px;
+  margin-right: 180px;
+}
+
+.header {
+  display: inline-block;
+}
+
+.header1 a {
+    text-decoration: none;
+  }
+  
+  .header1 a:hover {
+    border-bottom: 1px solid blue;
+    color: blue;
+  }
+
+  .header2 {
+    float: left;
+    margin-top: 5px;
+    display: block;
+  
+  }
+  
+  .header1 {
+    list-style: none;
+    display: inline-block;
+    width: 30%;
+  
+  }
+  
+  .icon {
+    padding-bottom: 5px;
+    display: block;
+    text-align: center;
+  }
+  
+  .icons {
+    margin-top: 20px;
+    position: fixed;
+    height: 20px;
+    margin-left: 370px;
+  }

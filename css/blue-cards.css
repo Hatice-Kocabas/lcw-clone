@@ -1,0 +1,37 @@
+
+.blue-cards {
+    text-align: center;
+    margin-top: 20px;
+    padding: 40px;
+  }
+  
+  .blue-card {
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: #EFF3FF;
+    border-radius: 5px;
+  
+  }
+  
+  .card-icons {
+    color: #062D92;
+    font-size: 40px;
+    margin-top: 20px;
+    height: 100px;
+    width: 50%;
+  }
+  
+  #border {
+    border-bottom: 1px solid grey;
+    font-weight: bold;
+    color: #062D92;
+  }
+  
+  .blue-card p {
+    color: #062D92;
+    ;
+  }
+  

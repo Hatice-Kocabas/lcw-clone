@@ -1,0 +1,113 @@
+#backtotop {
+    background-color: #fff;
+    border: 2px solid blue;
+    border-radius: 10px;
+    text-decoration: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+  
+  }
+  
+  #backtotop:hover {
+    background-color: blue;
+    color: #fff;
+  }
+  
+  .şerit {
+    background-color: #F2F2F2;
+  }
+  
+  .col-2 {
+    display: inline-block;
+  }
+  
+  .col-2 li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .col-2 img {
+    width: 60px;
+    height: 25px;
+  }
+  
+  #social-links {
+    display: inline-block;
+  
+  }
+  
+  #social-links a:hover {
+    color: red;
+  }
+  
+  .row-element {
+    float: right;
+    margin-right: 10em;
+  
+  }
+  .ro p{
+    margin-left: 40px;
+    font-size: 15px;
+  }
+  .container{
+    margin-top: 130px;
+  }
+  table {
+    width: 80%;
+    margin-left: 10em;
+  }
+  
+  .karekod img{
+      float: left;
+      width: 5em;
+      display: inline-block;
+    }
+    
+
+    .title{
+      text-align: start;
+    }
+    table a{
+      text-decoration: none;
+      color: black;
+    }
+
+    .button {
+      border: 1px solid blue;
+      padding: 0.5em 1em;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+   
+    
+    .button1 {
+      border: 1px solid grey;
+      padding: 0.5em 7em;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .button:hover{
+      box-shadow: 2px 2px 2px lightblue ;
+    }
+    .button1:hover{
+      box-shadow: 2px 2px 2px lightblue ;
+    }
+   .bottom-part{
+    background-color: #F2F2F2;
+   }
+    .bottom-part img{
+      width: 100%;
+    }
+    
+
+
+  

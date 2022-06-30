@@ -1,0 +1,15 @@
+
+.koleksiyonlar {
+    background-color: #FFF1D0;
+    height: 40em;
+  }
+  
+  .koleksiyonlar h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+  }
+  
+  .imgk{
+    width: 20%;
+  }

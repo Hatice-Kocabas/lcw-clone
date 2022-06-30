@@ -1,0 +1,25 @@
+.card {
+    background-color:#FFDD54;
+    height: 500px;
+    width: 100%;
+  }
+  
+  .img-k {
+    display: inline-block;
+  }
+  
+  .img {
+    width: 15%;
+    height: 450px;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 30px;
+  }
+  
+  .img1 {
+   margin-left: 10%;;
+  }
+  
+  .img:hover {
+    cursor: pointer;
+  }
