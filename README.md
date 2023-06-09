@@ -1,5 +1,5 @@
 # lcw-clone
-This project is a clone of Lc Waikiki site made by using CSS and html.
+This project is a clone of Lc Waikiki website made by using CSS and html.
 
 ## Screen Shots:
 
