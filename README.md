@@ -1,7 +1,7 @@
 # lcw-clone
 This project is a clone of Lc Waikiki site made by using CSS and html.
 
-Screen Shots:
+## Screen Shots:
 
 ![lcw1](https://user-images.githubusercontent.com/93576281/178458556-b2c1476d-45aa-4b23-9610-afdd8c2fd507.png)
 
